@@ -1,6 +1,6 @@
 print(int(input("Send help."(number))))
 
-nnumber = 123
+number = 123
 
 
 while False:
